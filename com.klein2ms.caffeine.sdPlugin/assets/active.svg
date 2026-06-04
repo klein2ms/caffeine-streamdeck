@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <!-- Filled coffee cup — Caffeine active -->
+  <rect width="144" height="144" rx="16" fill="#1a1a1a"/>
+  <!-- Cup body -->
+  <path d="M36 50 h72 l-8 56 H44 Z" fill="#6b3a2a" stroke="#c8a47a" stroke-width="3"/>
+  <!-- Coffee fill -->
+  <path d="M44 58 h56 l-6 40 H50 Z" fill="#3d1f10"/>
+  <!-- Steam wisps -->
+  <path d="M52 40 Q55 30 52 20" fill="none" stroke="#c8a47a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 38 Q75 26 72 16" fill="none" stroke="#c8a47a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M92 40 Q95 30 92 20" fill="none" stroke="#c8a47a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Handle -->
+  <path d="M108 62 Q128 62 128 80 Q128 98 108 98" fill="none" stroke="#c8a47a" stroke-width="4" stroke-linecap="round"/>
+</svg>

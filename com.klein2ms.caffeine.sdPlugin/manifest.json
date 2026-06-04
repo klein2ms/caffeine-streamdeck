@@ -1,0 +1,22 @@
+{
+  "Author": "Sean Klein",
+  "CodePath": "plugin.js",
+  "Description": "Toggle macOS sleep prevention from your Stream Deck.",
+  "Name": "Caffeine",
+  "Actions": [
+    {
+      "Icon": "assets/inactive",
+      "Name": "Toggle Caffeine",
+      "States": [
+        { "Image": "assets/inactive" }
+      ],
+      "SupportedInMultiActions": false,
+      "UUID": "com.klein2ms.caffeine.toggle"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": { "MinimumVersion": "6.4" },
+  "UUID": "com.klein2ms.caffeine",
+  "Version": "0.1.0",
+  "OS": [{ "Platform": "mac", "MinimumVersion": "10.15" }]
+}

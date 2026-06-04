@@ -1,0 +1,4 @@
+node_modules/
+dist/
+com.klein2ms.caffeine.sdPlugin/plugin.js
+*.js.map
